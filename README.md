@@ -57,7 +57,7 @@
 
 - Clone the repository
 ```bash
-git clone https://github.com/GitFlaviobc/Push_Swap.git
+git clone https://github.com/GitFlaviobc/philosophers.git
 ```
 - to create the philosophers (Inside Project folder)
 ```bash
