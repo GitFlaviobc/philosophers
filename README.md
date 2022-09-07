@@ -88,8 +88,6 @@ make re
 ./philo 3 100 4 2
 # One philo dies
 ./philo 4 8 5 2 1
-# No Death
-.philo 4 8 4 2 1
 ```
 <p></p>
 <a href = "#content">📋</a>
