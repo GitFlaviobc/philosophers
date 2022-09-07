@@ -49,7 +49,7 @@
 
 <a name="function"/> <h2> 📚 Functionality </h2> </a>
 
-![Philosophers Example]
+![Philosophers Example](Images/Philo.gif)
 
 <p></p>
 <a href = "#content">📋</a>
@@ -102,7 +102,7 @@ make re
 <a href = "#content">📋</a>
 
 <a name="update"/> <h2> 🆙 Updates </h2> </a>
-- The code I sent to evaluation will be kept the same. Any update will be on the update folder.⚠️🚧
+⚠️🚧
 <p></p>
 <a href = "#content">📋</a>
 
