@@ -7,7 +7,6 @@
   <a href = "#tec">Tecnology</a> -
   <a href = "#function">Functionality</a> -
   <a href = "#how">How to use</a> -
-  <a href = "#test">Tests</a> -
   <a href = "#update">Update</a> -
   <a href = "#author">Author</a>
 </p>
@@ -92,12 +91,6 @@ make re
 # No Death
 .philo 4 8 4 2 1
 ```
-<p></p>
-<a href = "#content">📋</a>
-
-<a name="test"/> <h2> 👨‍💻 Tests </h2> </a>
-- You can generate random numbers in here for manual tests: [Random](https://www.random.org/integer-sets/)
-- I used this tester to get faster results: [Tester](https://github.com/laisarena/push_swap_tester)
 <p></p>
 <a href = "#content">📋</a>
 
