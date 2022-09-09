@@ -32,7 +32,7 @@
 - One extra thread is used to control the dinner from outside the table, checking every time if any philoshopher died or if they all ate the meals needed. If yes, it will set the dinner to finished.
 - Before doing the actions, the philosophers are checking if the dinner is finished or not.
 - All the philosphers actions are printed on the terminal with the current dinner timer in miliseconds and the philosopher number.
-- To make sure the philosophers are able to take the forks they need, the even numbers philosophers (1,3,5....) are delayed a little in the beginning, so the even numbers (2,4,6...) can take the forks they need and put back for the other philosophers, during the time they are thinking and sleeping.
+- To make sure the philosophers are able to take the forks they need, the odd numbers philosophers (1,3,5....) are delayed a little in the beginning, so the even numbers (2,4,6...) can take the forks they need and put back for the other philosophers, during the time they are thinking and sleeping.
 
 - With semaphores the idea will be different, where all the forks will be in the center of the table and whoever gets two can go eat. But the other rules of the dinner are the same.
 <p></p>
