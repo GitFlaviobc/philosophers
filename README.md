@@ -75,7 +75,7 @@ make clean
 ```bash
 make fclean
 ```
- - to delete all files and recreate the push_swap
+ - to delete all files and recreate the philosophers
 ```bash
 make re
 ```
